@@ -1,0 +1,11 @@
+{
+	"applicationid": "APPLICATION ID ของบอท",
+ 	"name": "ชื่อที่เเสดงบนหน้าโปรไฟล์",
+ 	"head": "หัวเรื่องของคำอธบาย",
+ 	"description": "คำอธิบาย",
+ 	"imagename": "ใสชื่อรูปที่ตัวเองเรียก ที่หน้า Art Assets ของบอท",
+        "smallimgname": "ใสชื่อรูป2ที่ตัวเองเรียก ที่หน้า Art Assets ของบอท",
+        "status": "dnd",
+ 	"type":"WATCHING"
+}
+
